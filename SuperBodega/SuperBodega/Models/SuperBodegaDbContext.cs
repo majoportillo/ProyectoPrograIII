@@ -32,8 +32,13 @@ public partial class SuperBodegaDbContext : DbContext
     public virtual DbSet<Venta> Ventas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SuperBodegaDB;Trusted_Connection=True;TrustServerCertificate=True;");
+    {
+        // Aquí puedes configurar las opciones del DbContext si es necesario.  
+        // Por ejemplo, puedes descomentar la línea siguiente para usar una cadena de conexión:  
+        // optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SuperBodegaDB;Trusted_Connection=True;TrustServerCertificate=True;");  
+    }
+    //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+       // => optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SuperBodegaDB;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

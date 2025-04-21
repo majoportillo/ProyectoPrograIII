@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using SuperBodega.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<SuperBodegaDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("conexion"))); // se agrega el nombre del nombre que se le puso en el appsettings.json a la cadena de conexion
 
 var app = builder.Build();
 
