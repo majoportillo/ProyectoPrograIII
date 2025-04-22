@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC749888-F4CC-48D4-9DCB-C683EA7BF02F}|SuperBodega\\SuperBodega.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega\\superbodega\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC749888-F4CC-48D4-9DCB-C683EA7BF02F}|SuperBodega\\SuperBodega.csproj|solutionrelative:superbodega\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC749888-F4CC-48D4-9DCB-C683EA7BF02F}|SuperBodega\\SuperBodega.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega\\superbodega\\models\\detalleventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC749888-F4CC-48D4-9DCB-C683EA7BF02F}|SuperBodega\\SuperBodega.csproj|solutionrelative:superbodega\\models\\detalleventum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "SuperBodega\\Controllers\\CarritoController.cs",
+              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "SuperBodega\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:31:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DetalleVentum.cs",
               "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Models\\DetalleVentum.cs",
               "RelativeDocumentMoniker": "SuperBodega\\Models\\DetalleVentum.cs",
               "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Models\\DetalleVentum.cs",
               "RelativeToolTip": "SuperBodega\\Models\\DetalleVentum.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:59:28.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Program.cs",
               "RelativeDocumentMoniker": "SuperBodega\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "SuperBodega\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:09:08.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T04:09:08.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\appsettings.json",
               "RelativeDocumentMoniker": "SuperBodega\\appsettings.json",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SuperBodega\\Views\\Shared\\_Layout.cshtml",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SuperBodegaDbContext.cs",
               "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega\\SuperBodega\\Models\\SuperBodegaDbContext.cs",
               "RelativeDocumentMoniker": "SuperBodega\\Models\\SuperBodegaDbContext.cs",
@@ -92,8 +108,7 @@
               "RelativeToolTip": "SuperBodega\\Models\\SuperBodegaDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwCEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T03:55:38.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T03:55:38.431Z"
             }
           ]
         }
