@@ -18,10 +18,18 @@ namespace SuperBodega.Controllers
             _context = context;
         }
 
-        // GET: Clientes
-        public async Task<IActionResult> Index()
+        // Buscar clientes en base al nombre
+        public async Task<IActionResult> Index(string buscar)
         {
-            return View(await _context.Clientes.ToListAsync());
+
+            var clientes = from cliente in _context.Clientes select cliente; //consulta a la base de datos
+
+            if (!String.IsNullOrEmpty(buscar)) //si el campo de busqueda no es nulo o vacio
+            {
+                clientes = clientes.Where(cliente => cliente.Nombre.Contains(buscar)); //busca por Nombre a cada cliente
+            }
+
+            return View(await clientes.ToListAsync()); //devuelve la vista con los resultados de busqueda
         }
 
         // GET: Clientes/Details/5
