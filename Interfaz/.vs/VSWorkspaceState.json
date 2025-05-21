@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce.UI",
+    "\\ECommerce.UI\\Controllers",
+    "\\ECommerce.UI\\Models",
+    "\\ECommerce.UI\\Views",
+    "\\ECommerce.UI\\Views\\Products"
+  ],
+  "SelectedNode": "\\ECommerce.UI\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}

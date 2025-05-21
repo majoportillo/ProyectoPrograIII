@@ -1,0 +1,23 @@
+@model List<ECommerce.UI.Models.Product>
+
+    <h2>Catálogo de Productos</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Categoría</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Nombre</td>
+                <td>@p.Precio</td>
+                <td>@p.Categoria</td>
+            </tr>
+        }
+        </tbody>
+    </table>
