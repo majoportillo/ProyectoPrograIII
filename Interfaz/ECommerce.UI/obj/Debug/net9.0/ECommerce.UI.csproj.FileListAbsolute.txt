@@ -1,8 +1,0 @@
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.AssemblyInfoInputs.cache
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.AssemblyInfo.cs
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.csproj.CoreCompileInputs.cache
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.RazorAssemblyInfo.cache
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.RazorAssemblyInfo.cs
-C:\Users\ANGELOY\Desktop\pROGRAA\Interfaz\ECommerce.UI\obj\Debug\net9.0\ECommerce.UI.sourcelink.json

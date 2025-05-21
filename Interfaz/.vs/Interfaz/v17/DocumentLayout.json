@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Controllers\\ProductsController.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\ECommerce.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\ECommerce.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\ECommerce.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.UI\\ECommerce.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,11 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.UI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerce.UI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:34:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ECommerce.UI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:31:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.UI\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ECommerce.UI\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T06:01:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T06:07:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Program.cs",
+              "RelativeToolTip": "ECommerce.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:57:19.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ECommerce.UI.csproj",
               "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\ECommerce.UI.csproj",
               "RelativeDocumentMoniker": "ECommerce.UI\\ECommerce.UI.csproj",
@@ -60,19 +121,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ECommerce.UI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T06:07:22.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerce.UI\\appsettings.json",
@@ -81,71 +129,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-21T06:06:42.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ECommerce.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:04:34.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "ECommerce.UI\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T06:01:54.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ECommerce.UI\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:00:12.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Models\\Product.cs",
-              "RelativeToolTip": "ECommerce.UI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:59:49.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\Interfaz\\ECommerce.UI\\Program.cs",
-              "RelativeToolTip": "ECommerce.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:57:19.729Z",
               "EditorCaption": ""
             }
           ]

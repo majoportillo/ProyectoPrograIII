@@ -1,23 +1,6 @@
-@model List<ECommerce.UI.Models.Product>
+@{
+    ViewData["Title"] = "Productos";
+}
 
-    <h2>Catálogo de Productos</h2>
-
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Nombre</th>
-                <th>Precio</th>
-                <th>Categoría</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var p in Model)
-        {
-            <tr>
-                <td>@p.Nombre</td>
-                <td>@p.Precio</td>
-                <td>@p.Categoria</td>
-            </tr>
-        }
-        </tbody>
-    </table>
+<h2>@ViewData["Title"]</h2>
+<p>Esta es la página simple de productos.</p>

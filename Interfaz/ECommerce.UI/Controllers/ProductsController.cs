@@ -1,34 +1,23 @@
-using ECommerce.UI.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Net.Http.Json;
 
 namespace ECommerce.UI.Controllers
 {
     public class ProductsController : Controller
     {
-        private readonly IHttpClientFactory _clientFactory;
-
-        public ProductsController(IHttpClientFactory clientFactory)
+        public IActionResult Index()
         {
-            _clientFactory = clientFactory;
+            string html = @"
+                <html>
+                    <head>
+                        <title>Productos</title>
+                    </head>
+                    <body>
+                        <h1>¡Hola! Esta es la página de productos simple.</h1>
+                        <p>Esto es HTML enviado desde el controlador.</p>
+                    </body>
+                </html>";
+
+            return Content(html, "text/html");
         }
-
-        public async Task<IActionResult> Index()
-        {
-            var client = _clientFactory.CreateClient("ECommerceApi");
-            var response = await client.GetAsync("api/products");
-
-            if (!response.IsSuccessStatusCode)
-                return View("Error");
-
-            var apiResponse = await response.Content.ReadFromJsonAsync<ApiResponse>();
-            return View(apiResponse.Products);
-        }
-    }
-
-    public class ApiResponse
-    {
-        public int Total { get; set; }
-        public List<Product> Products { get; set; }
     }
 }

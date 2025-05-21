@@ -4,9 +4,10 @@
     "\\ECommerce.UI",
     "\\ECommerce.UI\\Controllers",
     "\\ECommerce.UI\\Models",
-    "\\ECommerce.UI\\Views",
+    "\\ECommerce.UI\\obj",
+    "\\ECommerce.UI\\Properties",
     "\\ECommerce.UI\\Views\\Products"
   ],
-  "SelectedNode": "\\ECommerce.UI\\Controllers\\ProductsController.cs",
+  "SelectedNode": "\\ECommerce.UI\\Properties\\launchSettings.json",
   "PreviewInSolutionExplorer": false
 }
