@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"       # puerto para la cola
+      - "15672:15672"     # puerto para la interfaz web
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    restart: always
+
+volumes:
+  rabbitmq-data:
