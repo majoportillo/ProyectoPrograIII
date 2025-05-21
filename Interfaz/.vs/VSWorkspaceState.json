@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\ECommerce.UI",
+    "\\ECommerce.UI\\bin",
+    "\\ECommerce.UI\\bin\\Release",
     "\\ECommerce.UI\\Controllers",
     "\\ECommerce.UI\\Models",
     "\\ECommerce.UI\\obj",
-    "\\ECommerce.UI\\Properties",
-    "\\ECommerce.UI\\Views\\Products"
+    "\\ECommerce.UI\\obj\\Debug",
+    "\\ECommerce.UI\\obj\\Debug\\net9.0",
+    "\\ECommerce.UI\\obj\\Release",
+    "\\ECommerce.UI\\obj\\Release\\net9.0"
   ],
-  "SelectedNode": "\\ECommerce.UI\\Properties\\launchSettings.json",
   "PreviewInSolutionExplorer": false
 }
