@@ -341,3 +341,4 @@ D:\5TO SEMESTRE\PROGRA III\ProyectoFinalPrograIII\SuperBodega.Admin.API\obj\Debu
 D:\5TO SEMESTRE\PROGRA III\ProyectoFinalPrograIII\SuperBodega.Admin.API\obj\Debug\net8.0\SuperBodega.Admin.API.genruntimeconfig.cache
 D:\5TO SEMESTRE\PROGRA III\ProyectoFinalPrograIII\SuperBodega.Admin.API\obj\Debug\net8.0\ref\SuperBodega.Admin.API.dll
 D:\5TO SEMESTRE\PROGRA III\ProyectoFinalPrograIII\SuperBodega.Admin.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\5TO SEMESTRE\PROGRA III\ProyectoFinalPrograIII\SuperBodega.Admin.API\bin\Debug\net8.0\Newtonsoft.Json.dll
