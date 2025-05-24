@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Consumir API ASP.NET Core</title>
+</head>
+<body>
+    <h1>Lista de Productos</h1>
+    <button id="btnCargar">Cargar Productos</button>
+    <ul id="listaProductos"></ul>
+
+    <script>
+        document.getElementById('btnCargar').addEventListener('click', function() {
+            fetch('https://localhost:5001/api/productos', { // Cambia la URL si tu API usa otro puerto o ruta
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error en la respuesta de la API');
+                }
+                return response.json();
+            })
+            .then(data => {
+                const lista = document.getElementById('listaProductos');
+                lista.innerHTML = '';
+                data.forEach(producto => {
+                    const li = document.createElement('li');
+                    li.textContent = producto.nombre + ' - $' + producto.precio;
+                    lista.appendChild(li);
+                });
+            })
+            .catch(error => {
+                alert('Error al consumir la API: ' + error.message);
+            });
+        });
+    </script>
+</body>
+</html>
