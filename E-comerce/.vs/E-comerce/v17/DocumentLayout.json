@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\queueproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\queueproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\orderstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\orderstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\orderstatusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\orderstatusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\services\\queueconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\services\\queueconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|c:\\users\\angeloy\\desktop\\progra\\progra prjec\\e-comerce\\e-comerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A08581B-5382-41B3-8E7F-2C35686A3542}|E-comerce\\E-comerce.csproj|solutionrelative:e-comerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,102 +62,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderStatusPublisher.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\OrderStatusPublisher.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\OrderStatusPublisher.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\OrderStatusPublisher.cs",
-              "RelativeToolTip": "E-comerce\\Services\\OrderStatusPublisher.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:45:54.199Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderStatusConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\OrderStatusConsumer.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\OrderStatusConsumer.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\OrderStatusConsumer.cs",
-              "RelativeToolTip": "E-comerce\\Services\\OrderStatusConsumer.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAA0wCAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "NotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\NotificationMessage.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Models\\NotificationMessage.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\NotificationMessage.cs",
+              "RelativeToolTip": "E-comerce\\Models\\NotificationMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:44:24.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T02:24:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\CartItem.cs",
+              "RelativeToolTip": "E-comerce\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:24:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Cart.cs",
+              "RelativeToolTip": "E-comerce\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:24:03.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "E-comerce\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowAsAAAAyAAAAAAAAAA==",
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\EmailSender.cs",
+              "RelativeToolTip": "E-comerce\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:29:22.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T05:43:54.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\IConnection.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Services\\IConnection.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\IConnection.cs",
+              "RelativeToolTip": "E-comerce\\Services\\IConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:23:46.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Program.cs",
               "RelativeDocumentMoniker": "E-comerce\\Program.cs",
               "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Program.cs",
               "RelativeToolTip": "E-comerce\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:27:47.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IConnection.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\IConnection.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\IConnection.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\IConnection.cs",
-              "RelativeToolTip": "E-comerce\\Services\\IConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:26:22.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QueueProducerService.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\QueueProducerService.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\QueueProducerService.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\QueueProducerService.cs",
-              "RelativeToolTip": "E-comerce\\Services\\QueueProducerService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "E-comerce\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:25:11.052Z",
+              "WhenOpened": "2025-05-26T02:23:59.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\EmailSender.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\EmailSender.cs",
-              "RelativeToolTip": "E-comerce\\Services\\EmailSender.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Order.cs",
+              "RelativeToolTip": "E-comerce\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:43:54.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T02:23:32.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-comerce\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:24:10.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "E-comerce\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:23:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "E-comerce\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\CartController.cs",
+              "RelativeToolTip": "E-comerce\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:22:25.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Dockerfile",
+              "RelativeDocumentMoniker": "E-comerce\\Dockerfile",
+              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Dockerfile",
+              "RelativeToolTip": "E-comerce\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-24T13:58:09.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\appsettings.json",
               "RelativeDocumentMoniker": "E-comerce\\appsettings.json",
@@ -165,73 +224,7 @@
               "RelativeToolTip": "E-comerce\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T05:23:55.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\docker-compose.yml",
-              "RelativeDocumentMoniker": "E-comerce\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\docker-compose.yml",
-              "RelativeToolTip": "E-comerce\\docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-21T05:33:01.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QueueConsumerService.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\QueueConsumerService.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Services\\QueueConsumerService.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Services\\QueueConsumerService.cs",
-              "RelativeToolTip": "E-comerce\\Services\\QueueConsumerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:26:56.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotificationMessage.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\NotificationMessage.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Models\\NotificationMessage.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\NotificationMessage.cs",
-              "RelativeToolTip": "E-comerce\\Models\\NotificationMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:22:53.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "E-comerce\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:20:49.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "E-comerce\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\Models\\Order.cs",
-              "RelativeToolTip": "E-comerce\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:18:53.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T05:23:55.863Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\E-comerce.csproj": {}
+    "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\E-comerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\E-comerce.csproj": {
+    "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\E-comerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\E-comerce.csproj",
+        "projectUniqueName": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\E-comerce.csproj",
         "projectName": "E-comerce",
-        "projectPath": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\E-comerce.csproj",
+        "projectPath": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\E-comerce.csproj",
         "packagesPath": "C:\\Users\\ANGELOY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\obj\\",
+        "outputPath": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

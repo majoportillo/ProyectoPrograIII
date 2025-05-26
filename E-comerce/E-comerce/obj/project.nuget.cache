@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1RGJQ289ZyQ=",
+  "dgSpecHash": "d8Hz34b5n+A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ANGELOY\\Desktop\\pROGRAA\\E-comerce\\E-comerce\\E-comerce.csproj",
+  "projectFilePath": "C:\\Users\\ANGELOY\\Desktop\\Progra\\Progra prjec\\E-comerce\\E-comerce\\E-comerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANGELOY\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\ANGELOY\\.nuget\\packages\\azure.identity\\1.13.0\\azure.identity.1.13.0.nupkg.sha512",

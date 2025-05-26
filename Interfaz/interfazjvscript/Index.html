@@ -11,7 +11,7 @@
 
     <script>
         document.getElementById('btnCargar').addEventListener('click', function() {
-            fetch('https://localhost:5001/api/productos', { // Cambia la URL si tu API usa otro puerto o ruta
+            fetch('http://localhost:32770/api/Products', { // Cambia la URL si tu API usa otro puerto o ruta
                 method: 'GET',
                 headers: {
                     'Content-Type': 'application/json'
