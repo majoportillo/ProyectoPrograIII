@@ -1,0 +1,9 @@
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.csproj.AssemblyReference.cache
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.AssemblyInfoInputs.cache
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.AssemblyInfo.cs
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.csproj.CoreCompileInputs.cache
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.RazorAssemblyInfo.cache
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce{\E-comercce{\obj\Debug\net8.0\E-comercce{.RazorAssemblyInfo.cs
