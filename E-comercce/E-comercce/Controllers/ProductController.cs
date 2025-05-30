@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
-
 namespace E_comercce_.Controllers
 {
     [ApiController]
@@ -31,12 +30,28 @@ namespace E_comercce_.Controllers
             return CreatedAtAction(nameof(CreateProduct), new { id = product.Id }, product);
         }
 
-        // GET api/product  (opcional para listar productos)
+        // GET api/product
         [HttpGet]
         public async Task<IActionResult> GetProducts()
         {
             var products = await _context.Products.ToListAsync();
             return Ok(products);
+        }
+
+        // DELETE api/product/{id}
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteProduct(int id)
+        {
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
         }
     }
 }

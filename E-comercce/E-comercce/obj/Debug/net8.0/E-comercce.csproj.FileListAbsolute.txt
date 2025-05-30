@@ -164,3 +164,4 @@ C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce\E-comercce\obj\Debug\net
 C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce\E-comercce\obj\Debug\net8.0\E-comercce.pdb
 C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce\E-comercce\obj\Debug\net8.0\E-comercce.genruntimeconfig.cache
 C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce\E-comercce\obj\Debug\net8.0\ref\E-comercce.dll
+C:\Users\ANGELOY\Desktop\Progra\Progra prjec\E-comercce\E-comercce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
