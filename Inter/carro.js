@@ -18,7 +18,7 @@ function mostrarCarrito() {
           <th>Precio</th>
           <th>Cantidad</th>
           <th>Total</th>
-          <th>Acciones</th>
+          <th>Quitar</th>
         </tr>
       </thead>
       <tbody>
@@ -33,9 +33,16 @@ function mostrarCarrito() {
         <td>${p.name}</td>
         <td>${p.category}</td>
         <td>Q${p.price.toFixed(2)}</td>
-        <td>${p.cantidad}</td>
+        <td>
+          <input type="number" min="1" value="${p.cantidad}" class="form-control form-control-sm"
+            onchange="actualizarCantidad(${index}, this.value)" />
+        </td>
         <td>Q${subtotal.toFixed(2)}</td>
-        <td><button class="btn btn-danger btn-sm" onclick="eliminarDelCarrito(${index})">Eliminar</button></td>
+        <td>
+          <button class="btn btn-outline-danger btn-sm" onclick="eliminarDelCarrito(${index})">
+            <i class="bi bi-trash"></i>
+          </button>
+        </td>
       </tr>
     `;
   });
@@ -56,9 +63,19 @@ function mostrarCarrito() {
 
 function eliminarDelCarrito(index) {
   const carrito = JSON.parse(localStorage.getItem("carrito")) || [];
-  carrito.splice(index, 1); // Elimina 1 elemento en la posición index
+  carrito.splice(index, 1);
   localStorage.setItem("carrito", JSON.stringify(carrito));
-  mostrarCarrito(); // Recarga el carrito
+  mostrarCarrito();
+}
+
+function actualizarCantidad(index, nuevaCantidad) {
+  const carrito = JSON.parse(localStorage.getItem("carrito")) || [];
+  nuevaCantidad = parseInt(nuevaCantidad);
+  if (nuevaCantidad > 0) {
+    carrito[index].cantidad = nuevaCantidad;
+    localStorage.setItem("carrito", JSON.stringify(carrito));
+    mostrarCarrito();
+  }
 }
 
 mostrarCarrito();

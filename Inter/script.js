@@ -1,16 +1,44 @@
-const apiUrl = 'https://localhost:32769/api/Product';
+const apiUrl = 'https://localhost:32776/api/Product';
 
+// Variables globales para filtros
+let categoriasUnicas = [];
+
+// Carga productos desde API y genera filtros y productos
 async function cargarProductos() {
   try {
     const res = await fetch(apiUrl);
     if (!res.ok) throw new Error('Error HTTP: ' + res.status);
     const productos = await res.json();
+
+    // Extraemos categorías únicas para filtro
+    categoriasUnicas = [...new Set(productos.map(p => p.category))].sort();
+    generarFiltroCategorias();
+
     mostrarProductos(productos);
   } catch (err) {
     alert('Error al cargar productos: ' + err.message);
   }
 }
 
+// Crear checkboxes de categorías dinámicamente
+function generarFiltroCategorias() {
+  const contenedor = document.getElementById('filtroCategorias');
+  contenedor.innerHTML = '';
+
+  categoriasUnicas.forEach((cat, i) => {
+    const div = document.createElement('div');
+    div.className = 'form-check';
+
+    div.innerHTML = `
+      <input class="form-check-input" type="checkbox" id="cat${i}" value="${cat}" />
+      <label class="form-check-label" for="cat${i}">${cat}</label>
+    `;
+
+    contenedor.appendChild(div);
+  });
+}
+
+// Mostrar productos en el DOM
 function mostrarProductos(productos) {
   const contenedor = document.getElementById('productos');
   contenedor.innerHTML = '';
@@ -37,6 +65,7 @@ function mostrarProductos(productos) {
   });
 }
 
+// Evento submit para agregar producto
 document.getElementById('formProducto').addEventListener('submit', async (e) => {
   e.preventDefault();
 
@@ -88,21 +117,31 @@ function actualizarContadorCarrito() {
   document.getElementById('contadorCarrito').textContent = total;
 }
 
-function aplicarFiltros() {
+// Filtrar productos por búsqueda, precio y categorías seleccionadas
+async function aplicarFiltros() {
   const busqueda = document.getElementById('busquedaNavbar').value.toLowerCase();
   const precioMax = parseFloat(document.getElementById('precioMaximo').value) || Infinity;
 
-  fetch(apiUrl)
-    .then(res => res.json())
-    .then(productos => {
-      const filtrados = productos.filter(p => {
-        const coincideNombre = p.name.toLowerCase().includes(busqueda);
-        const coincidePrecio = p.price <= precioMax;
-        return coincideNombre && coincidePrecio;
-      });
-      mostrarProductos(filtrados);
-    })
-    .catch(err => alert('Error al filtrar: ' + err.message));
+  // Obtener categorías seleccionadas
+  const checkboxes = document.querySelectorAll('#filtroCategorias input[type=checkbox]:checked');
+  const categoriasSeleccionadas = Array.from(checkboxes).map(cb => cb.value);
+
+  try {
+    const res = await fetch(apiUrl);
+    if (!res.ok) throw new Error('Error HTTP: ' + res.status);
+    const productos = await res.json();
+
+    const filtrados = productos.filter(p => {
+      const coincideNombre = p.name.toLowerCase().includes(busqueda);
+      const coincidePrecio = p.price <= precioMax;
+      const coincideCategoria = categoriasSeleccionadas.length === 0 || categoriasSeleccionadas.includes(p.category);
+      return coincideNombre && coincidePrecio && coincideCategoria;
+    });
+
+    mostrarProductos(filtrados);
+  } catch (err) {
+    alert('Error al filtrar: ' + err.message);
+  }
 }
 
 // Inicialización
