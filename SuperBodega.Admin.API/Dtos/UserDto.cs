@@ -2,7 +2,7 @@
 {
     public class UserDto
     {
-        public string usuario { get; set; } = string.Empty;
-        public string password { get; set; } = string.Empty;
+        public string UsuarioNombre { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
 }

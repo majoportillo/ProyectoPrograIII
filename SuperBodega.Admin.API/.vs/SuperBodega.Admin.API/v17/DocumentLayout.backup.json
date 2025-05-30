@@ -1,349 +1,492 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\",
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\reporteventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\reporteventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\icompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\icompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\migrations\\20250520045028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:migrations\\20250520045028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\ireporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\ireporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\ireporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\superbodega.admin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\ventacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\ventacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\detallecompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\detallecompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\compracreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\compracreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\ventacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\ventacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|d:\\5to semestre\\progra iii\\proyectofinalprograiii\\superbodega.admin.api\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\compracreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\compracreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\carrito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\carrito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\compras.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\compras.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\ventas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\ventas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\reportes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\reportes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\proveedores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\proveedores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\icompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\icompraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\js\\api-productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\js\\api-productos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\superbodega.admin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\js\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:fronted\\js\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\reporteventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\reporteventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\migrations\\20250520045028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:migrations\\20250520045028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:services\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\detallecompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDBCC53-DBC0-4A55-87A8-F15F8EF6283F}|SuperBodega.Admin.API.csproj|solutionrelative:dtos\\detallecompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 170,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 29,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
+              "Title": "carrito.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\carrito.html",
+              "RelativeDocumentMoniker": "fronted\\carrito.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\carrito.html",
+              "RelativeToolTip": "fronted\\carrito.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:46:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "reportes.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\reportes.html",
+              "RelativeDocumentMoniker": "fronted\\reportes.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\reportes.html",
+              "RelativeToolTip": "fronted\\reportes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:28:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ventas.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\ventas.html",
+              "RelativeDocumentMoniker": "fronted\\ventas.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\ventas.html",
+              "RelativeToolTip": "fronted\\ventas.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:28:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "compras.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\compras.html",
+              "RelativeDocumentMoniker": "fronted\\compras.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\compras.html",
+              "RelativeToolTip": "fronted\\compras.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:27:57.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "proveedores.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\proveedores.html",
+              "RelativeDocumentMoniker": "fronted\\proveedores.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\proveedores.html",
+              "RelativeToolTip": "fronted\\proveedores.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:27:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clientes.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\clientes.html",
+              "RelativeDocumentMoniker": "fronted\\clientes.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\clientes.html",
+              "RelativeToolTip": "fronted\\clientes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T06:27:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "api-productos.js",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\api-productos.js",
+              "RelativeDocumentMoniker": "fronted\\js\\api-productos.js",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\api-productos.js",
+              "RelativeToolTip": "fronted\\js\\api-productos.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-29T05:04:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "productos.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\productos.html",
+              "RelativeDocumentMoniker": "fronted\\productos.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\productos.html",
+              "RelativeToolTip": "fronted\\productos.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T05:02:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\api.js",
+              "RelativeDocumentMoniker": "fronted\\js\\api.js",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\api.js",
+              "RelativeToolTip": "fronted\\js\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-27T04:48:31.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\auth.js",
+              "RelativeDocumentMoniker": "fronted\\js\\auth.js",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\js\\auth.js",
+              "RelativeToolTip": "fronted\\js\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-27T04:48:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\dashboard.html",
+              "RelativeDocumentMoniker": "fronted\\dashboard.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\dashboard.html",
+              "RelativeToolTip": "fronted\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-27T04:45:49.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\login.html",
+              "RelativeDocumentMoniker": "fronted\\login.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\login.html",
+              "RelativeToolTip": "fronted\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-27T04:45:30.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T02:05:27.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReportesController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ReportesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReportesController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ReportesController.cs",
               "RelativeToolTip": "Controllers\\ReportesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T06:40:31.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 37,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T05:33:16.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T05:33:16.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T23:24:25.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:24:25.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 39,
               "Title": "IClienteService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IClienteService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IClienteService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IClienteService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IClienteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:54:46.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T22:54:46.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 36,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T05:41:25.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T05:41:25.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "ICompraService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\ICompraService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\ICompraService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICompraService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\ICompraService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\ICompraService.cs",
               "RelativeToolTip": "Services\\Interfaces\\ICompraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:20:52.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:20:52.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\UserDto.cs",
               "RelativeToolTip": "Dtos\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T01:59:02.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T02:02:37.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ICarritoService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\ICarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\ICarritoService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICarritoService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\ICarritoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\ICarritoService.cs",
               "RelativeToolTip": "Services\\Interfaces\\ICarritoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,115 +495,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 40,
               "Title": "20250520045028_Init.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Migrations\\20250520045028_Init.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Migrations\\20250520045028_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250520045028_Init.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Migrations\\20250520045028_Init.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Migrations\\20250520045028_Init.cs",
               "RelativeToolTip": "Migrations\\20250520045028_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T04:50:29.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T04:50:29.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 38,
               "Title": "ReporteVentaDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ReporteVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ReporteVentaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ReporteVentaDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ReporteVentaDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ReporteVentaDto.cs",
               "RelativeToolTip": "Dtos\\ReporteVentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:38:42.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:38:42.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:57:32.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-20T03:52:20.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:52:20.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwDQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:24:06.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:24:06.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 5,
               "Title": "SuperBodegaDbContext.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
               "RelativeDocumentMoniker": "Data\\SuperBodegaDbContext.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
               "RelativeToolTip": "Data\\SuperBodegaDbContext.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T03:48:30.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 43,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Controllers\\ProductoController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:34:25.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:34:25.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:46:05.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:46:05.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "IReporteService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IReporteService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IReporteService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IReporteService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IReporteService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IReporteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -469,24 +593,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "ReporteService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ReporteService.cs",
               "RelativeDocumentMoniker": "Services\\ReporteService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ReporteService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ReporteService.cs",
               "RelativeToolTip": "Services\\ReporteService.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:39:58.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:39:58.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "CarritoController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\CarritoController.cs",
               "RelativeToolTip": "Controllers\\CarritoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +618,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 1,
               "Title": "CarritoService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\CarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\CarritoService.cs",
               "RelativeDocumentMoniker": "Services\\CarritoService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\CarritoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\CarritoService.cs",
               "RelativeToolTip": "Services\\CarritoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +631,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 4,
               "Title": "CarritoDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CarritoDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CarritoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CarritoDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CarritoDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CarritoDto.cs",
               "RelativeToolTip": "Dtos\\CarritoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -521,128 +644,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Carrito.cs",
-              "RelativeDocumentMoniker": "Models\\Carrito.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Carrito.cs",
-              "RelativeToolTip": "Models\\Carrito.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:30:11.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "DetalleCompra.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\DetalleCompra.cs",
-              "RelativeDocumentMoniker": "Models\\DetalleCompra.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\DetalleCompra.cs",
-              "RelativeToolTip": "Models\\DetalleCompra.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswBMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:28:38.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Compra.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Compra.cs",
-              "RelativeDocumentMoniker": "Models\\Compra.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Compra.cs",
-              "RelativeToolTip": "Models\\Compra.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:27:24.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "Models\\DetalleVenta.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\DetalleVenta.cs",
-              "RelativeToolTip": "Models\\DetalleVenta.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:25:00.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Ventas.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Ventas.cs",
-              "RelativeDocumentMoniker": "Models\\Ventas.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Ventas.cs",
-              "RelativeToolTip": "Models\\Ventas.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:30:03.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 42,
               "Title": "VentasController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\VentasController.cs",
               "RelativeToolTip": "Controllers\\VentasController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:29:11.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:29:11.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 46,
               "Title": "VentaService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "Services\\VentaService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\VentaService.cs",
               "RelativeToolTip": "Services\\VentaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:28:36.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:28:36.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 50,
               "Title": "IVentaService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IVentaService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IVentaService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IVentaService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IVentaService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IVentaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:28:05.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:28:05.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 21,
               "Title": "VentaDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\VentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\VentaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\VentaDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\VentaDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\VentaDto.cs",
               "RelativeToolTip": "Dtos\\VentaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:27:09.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:27:09.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "VentaCreateDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\VentaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\VentaCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\VentaCreateDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\VentaCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\VentaCreateDto.cs",
               "RelativeToolTip": "Dtos\\VentaCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -651,63 +705,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 53,
               "Title": "DetalleVentaDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
               "RelativeDocumentMoniker": "Dtos\\DetalleVentaDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
               "RelativeToolTip": "Dtos\\DetalleVentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:25:44.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:25:44.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 7,
               "Title": "ComprasController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ComprasController.cs",
               "RelativeDocumentMoniker": "Controllers\\ComprasController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ComprasController.cs",
               "RelativeToolTip": "Controllers\\ComprasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T23:22:39.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 11,
               "Title": "CompraService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\CompraService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\CompraService.cs",
               "RelativeDocumentMoniker": "Services\\CompraService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\CompraService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\CompraService.cs",
               "RelativeToolTip": "Services\\CompraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T23:21:41.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 23,
               "Title": "CompraDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CompraDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CompraDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CompraDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CompraDto.cs",
               "RelativeToolTip": "Dtos\\CompraDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:19:33.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:19:33.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 13,
               "Title": "CompraCreateDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CompraCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CompraCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CompraCreateDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\CompraCreateDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\CompraCreateDto.cs",
               "RelativeToolTip": "Dtos\\CompraCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -716,185 +768,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 54,
               "Title": "DetalleCompraDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\DetalleCompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleCompraDto.cs",
               "RelativeDocumentMoniker": "Dtos\\DetalleCompraDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\DetalleCompraDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleCompraDto.cs",
               "RelativeToolTip": "Dtos\\DetalleCompraDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:16:10.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:16:10.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Proveedores.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Proveedores.cs",
-              "RelativeDocumentMoniker": "Models\\Proveedores.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Proveedores.cs",
-              "RelativeToolTip": "Models\\Proveedores.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBEAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:08:11.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 48,
               "Title": "ProveedorController.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProveedorController.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProveedorController.cs",
               "RelativeToolTip": "Controllers\\ProveedorController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:07:29.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:07:29.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "ProveedorService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
               "RelativeDocumentMoniker": "Services\\ProveedorService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
               "RelativeToolTip": "Services\\ProveedorService.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:06:32.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:06:32.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 51,
               "Title": "IProveedorService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IProveedorService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IProveedorService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IProveedorService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IProveedorService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IProveedorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:05:39.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:05:39.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 25,
               "Title": "ProveedorDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ProveedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ProveedorDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProveedorDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ProveedorDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ProveedorDto.cs",
               "RelativeToolTip": "Dtos\\ProveedorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T23:04:19.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T23:04:19.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "ClientesCrontroller.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesCrontroller.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
               "RelativeToolTip": "Controllers\\ClientesCrontroller.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T22:58:48.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 27,
               "Title": "ClienteService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "Services\\ClienteService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
               "RelativeToolTip": "Services\\ClienteService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwDoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:55:56.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T22:55:56.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "ClienteDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ClienteDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ClienteDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ClienteDto.cs",
               "RelativeToolTip": "Dtos\\ClienteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:53:47.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T22:53:47.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 44,
               "Title": "ProductoService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "Services\\ProductoService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
               "RelativeToolTip": "Services\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:16:39.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T18:16:39.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 52,
               "Title": "IProductoService.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IProductoService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IProductoService.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Services\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\Interfaces\\IProductoService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:11:08.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T18:11:08.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 49,
               "Title": "ProductoDto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ProductoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProductoDto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Dtos\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\ProductoDto.cs",
               "RelativeToolTip": "Dtos\\ProductoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:07:18.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T18:07:18.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\Models\\Producto.cs",
-              "RelativeToolTip": "Models\\Producto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T18:01:49.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "SuperBodega.Admin.API.csproj",
-              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
               "RelativeDocumentMoniker": "SuperBodega.Admin.API.csproj",
-              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
               "RelativeToolTip": "SuperBodega.Admin.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T17:50:30.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:50:30.018Z"
             }
           ]
         }

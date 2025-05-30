@@ -10,6 +10,8 @@ namespace SuperBodega.Admin.API.Data
             : base(options) { }
 
         // 🔗 Entidades principales
+
+        public virtual DbSet<User> Usuarios { get; set; }
         public DbSet<Producto> Productos { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Proveedores> Proveedores { get; set; }
@@ -21,6 +23,15 @@ namespace SuperBodega.Admin.API.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.UsuarioNombre)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .IsRequired();
+            });
+
             // 🔹 Carrito
             modelBuilder.Entity<Carrito>(entity =>
             {

@@ -7,6 +7,8 @@ namespace SuperBodega.Admin.API.Services.Interfaces
         Task<IEnumerable<CompraDto>> GetAllAsync();
         Task<CompraDto?> GetByIdAsync(int id);
         Task<CompraDto> CreateAsync(CompraCreateDto dto);
+        Task<bool> DeleteAsync(int id);
+
     }
 }
 

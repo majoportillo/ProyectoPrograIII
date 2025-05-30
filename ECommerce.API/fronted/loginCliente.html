@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Cliente</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container py-5">
+    <h2>Inicio de Sesión - Cliente</h2>
+
+    <div class="mb-3">
+        <label for="email" class="form-label">Correo electrónico:</label>
+        <input type="email" id="email" class="form-control" required>
+    </div>
+
+    <button class="btn btn-primary" onclick="iniciarSesion()">Ingresar</button>
+
+    <script>
+        const apiUrl = "http://localhost:5234/api/Clientes";
+
+        async function iniciarSesion() {
+            const email = document.getElementById("email").value.trim().toLowerCase();
+
+            if (!email) {
+                alert("Por favor, ingresa un correo electrónico.");
+                return;
+            }
+
+            try {
+                const res = await fetch(apiUrl);
+                if (!res.ok) {
+                    throw new Error("No se pudo obtener la lista de clientes.");
+                }
+
+                const clientes = await res.json();
+                const cliente = clientes.find(c => c.email?.toLowerCase() === email);
+
+                if (cliente) {
+                    localStorage.setItem("clienteId", cliente.id);
+                    alert(`¡Bienvenido, ${cliente.nombre}!`);
+                    window.location.href = "catalogo.html"; // redirige al catálogo después del login
+                } else {
+                    alert("Correo no encontrado. Verifica o regístrate.");
+                }
+            } catch (error) {
+                console.error("Error al iniciar sesión:", error);
+                alert("Ocurrió un error. Verifica que la API esté activa.");
+            }
+        }
+    </script>
+</body>
+</html>
+

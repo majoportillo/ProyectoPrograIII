@@ -1733,6 +1733,16 @@
             "rid": "win"
           }
         }
+      },
+      "SuperBodega.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SuperBodega.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SuperBodega.Models.dll": {}
+        }
       }
     }
   },
@@ -5227,6 +5237,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SuperBodega.Models/1.0.0": {
+      "type": "project",
+      "path": "../SuperBodega.Models/SuperBodega.Models.csproj",
+      "msbuildProject": "../SuperBodega.Models/SuperBodega.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5236,27 +5251,28 @@
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.5",
       "Microsoft.IdentityModel.Tokens >= 6.35.0",
       "Newtonsoft.Json >= 13.0.3",
+      "SuperBodega.Models >= 1.0.0",
       "Swashbuckle.AspNetCore >= 8.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\HP BLUE\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
+      "projectUniqueName": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
       "projectName": "SuperBodega.Admin.API",
-      "projectPath": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\SuperBodega.Admin.API\\obj\\",
+      "projectPath": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj",
+      "packagesPath": "C:\\Users\\HP BLUE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP BLUE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5271,7 +5287,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\SuperBodega.Models.csproj": {
+              "projectPath": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\SuperBodega.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5284,7 +5304,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -5336,7 +5356,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

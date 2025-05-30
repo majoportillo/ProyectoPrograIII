@@ -23,31 +23,48 @@ namespace SuperBodega.Admin.API.Services
         {
             var ventas = await _context.Ventas
                 .Include(v => v.DetalleVenta)
+                    .ThenInclude(dv => dv.Producto)
                 .ToListAsync();
 
             var result = new List<VentaDto>();
             foreach (var venta in ventas)
             {
                 var dto = _mapper.Map<VentaDto>(venta);
-                dto.Detalle = _mapper.Map<List<DetalleVentaDto>>(venta.DetalleVenta);
+                dto.Detalle = venta.DetalleVenta.Select(d => new DetalleVentaDto
+                {
+                    ProductoId = d.ProductoId,
+                    Cantidad = d.Cantidad,
+                    PrecioUnitario = d.PrecioUnitario,
+                    NombreProducto = d.Producto?.Nombre
+                }).ToList();
                 result.Add(dto);
             }
 
             return result;
         }
 
-        public async Task<VentaDto?> GetByIdAsync(int id)
-        {
-            var venta = await _context.Ventas
-                .Include(v => v.DetalleVenta)
-                .FirstOrDefaultAsync(v => v.Id == id);
 
-            if (venta == null) return null;
+            public async Task<VentaDto?> GetByIdAsync(int id)
+            {
+                var venta = await _context.Ventas
+                    .Include(v => v.DetalleVenta)
+                        .ThenInclude(dv => dv.Producto)
+                    .FirstOrDefaultAsync(v => v.Id == id);
 
-            var dto = _mapper.Map<VentaDto>(venta);
-            dto.Detalle = _mapper.Map<List<DetalleVentaDto>>(venta.DetalleVenta);
-            return dto;
-        }
+                if (venta == null) return null;
+
+                var dto = _mapper.Map<VentaDto>(venta);
+                dto.Detalle = venta.DetalleVenta.Select(d => new DetalleVentaDto
+                {
+                    ProductoId = d.ProductoId,
+                    Cantidad = d.Cantidad,
+                    PrecioUnitario = d.PrecioUnitario,
+                    NombreProducto = d.Producto?.Nombre
+                }).ToList();
+
+                return dto;
+            }
+
 
         public async Task<VentaDto> CreateAsync(VentaCreateDto dto)
         {
@@ -62,7 +79,16 @@ namespace SuperBodega.Admin.API.Services
             _context.Ventas.Add(venta);
             await _context.SaveChangesAsync(); // Necesario para obtener el ID
 
-            foreach (var detalle in dto.Detalle)
+            var detallesAgrupados = dto.Detalle
+    .GroupBy(d => d.ProductoId)
+    .Select(g => new DetalleVentaDto
+    {
+        ProductoId = g.Key,
+        Cantidad = g.Sum(x => x.Cantidad),
+        PrecioUnitario = g.First().PrecioUnitario
+    });
+
+            foreach (var detalle in detallesAgrupados)
             {
                 var detalleVenta = new DetalleVenta
                 {
@@ -74,13 +100,13 @@ namespace SuperBodega.Admin.API.Services
 
                 _context.DetalleVenta.Add(detalleVenta);
 
-                // ✅ Restar stock
                 var producto = await _context.Productos.FindAsync(detalle.ProductoId);
                 if (producto != null)
                 {
                     producto.Stock = Math.Max(0, (producto.Stock ?? 0) - detalle.Cantidad);
                 }
             }
+
 
             await _context.SaveChangesAsync();
 
@@ -94,10 +120,16 @@ namespace SuperBodega.Admin.API.Services
             var venta = await _context.Ventas.FindAsync(id);
             if (venta == null) return false;
 
+            var estadosValidos = new[] { "Recibido", "Despachado", "Entregado" };
+
+            if (!estadosValidos.Contains(nuevoEstado))
+                return false;
+
             venta.Estado = nuevoEstado;
             await _context.SaveChangesAsync();
             return true;
         }
+
     }
 }
 

@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Ventas</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container py-5">
+
+    <h2 class="mb-4">Registrar Venta</h2>
+    <button class="btn btn-sm btn-secondary mb-3" onclick="window.location.href='dashboard.html'">⬅ Volver</button>
+
+    <form id="ventaForm" class="mb-5">
+        <div class="row">
+            <div class="col-md-3"><input type="number" id="clienteId" class="form-control" placeholder="ID del Cliente" required /></div>
+            <div class="col-md-3"><input type="number" id="productoId" class="form-control" placeholder="ID del Producto" required /></div>
+            <div class="col-md-3"><input type="number" id="cantidad" class="form-control" placeholder="Cantidad" required /></div>
+            <div class="col-md-3"><input type="number" id="precioUnitario" class="form-control" placeholder="Precio Unitario" step="0.01" required /></div>
+        </div>
+        <div class="mt-3">
+            <button type="submit" class="btn btn-success">Registrar Venta</button>
+        </div>
+    </form>
+
+    <h2>Ventas registradas</h2>
+    <table class="table table-bordered" id="ventasTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Cliente ID</th>
+                <th>Total</th>
+                <th>Fecha</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        const apiUrl = 'http://localhost:5234/api/Ventas';
+
+        function getColorStyle(estado) {
+            switch (estado) {
+                case "Recibido": return "background-color: #fff3cd";     // Amarillo
+                case "Despachado": return "background-color: #cfe2ff";   // Azul
+                case "Entregado": return "background-color: #d1e7dd";    // Verde
+                default: return "";
+            }
+        }
+
+        async function cargarVentas() {
+            const res = await fetch(apiUrl);
+            const ventas = await res.json();
+            const tbody = document.querySelector('#ventasTable tbody');
+            tbody.innerHTML = '';
+
+            ventas.forEach(v => {
+                const row = document.createElement('tr');
+                row.setAttribute('style', getColorStyle(v.estado));
+
+                row.innerHTML = `
+              <td>${v.id}</td>
+              <td>${v.clienteId}</td>
+              <td>Q${v.total.toFixed(2)}</td>
+              <td>${new Date(v.fecha).toLocaleString()}</td>
+              <td>
+                <select id="estado-${v.id}" class="form-select form-select-sm">
+                  <option value="Recibido" ${v.estado === "Recibido" ? "selected" : ""}>Recibido</option>
+                  <option value="Despachado" ${v.estado === "Despachado" ? "selected" : ""}>Despachado</option>
+                  <option value="Entregado" ${v.estado === "Entregado" ? "selected" : ""}>Entregado</option>
+                </select>
+              </td>
+              <td>
+                <button class="btn btn-primary btn-sm" onclick="cambiarEstado(${v.id})">Actualizar Estado</button>
+              </td>`;
+                tbody.appendChild(row);
+            });
+        }
+
+        async function cambiarEstado(id) {
+            const nuevoEstado = document.getElementById(`estado-${id}`).value;
+            await fetch(`${apiUrl}/${id}/estado`, {
+                method: 'PATCH',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(nuevoEstado)
+            });
+            await cargarVentas(); // Refresca la tabla con nuevo color
+        }
+
+        async function registrarVenta(e) {
+            e.preventDefault();
+            const clienteId = parseInt(document.getElementById('clienteId').value);
+            const productoId = parseInt(document.getElementById('productoId').value);
+            const cantidad = parseInt(document.getElementById('cantidad').value);
+            const precioUnitario = parseFloat(document.getElementById('precioUnitario').value);
+
+            await fetch(apiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    clienteId,
+                    detalle: [{ productoId, cantidad, precioUnitario }]
+                })
+            });
+
+            document.getElementById('ventaForm').reset();
+            cargarVentas();
+        }
+
+        document.getElementById('ventaForm').addEventListener('submit', registrarVenta);
+        cargarVentas();
+    </script>
+
+</body>
+</html>
+
+
+
+
+
+
+

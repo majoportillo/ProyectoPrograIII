@@ -34,6 +34,21 @@ namespace SuperBodega.Admin.API.Controllers
             var creada = await _compraService.CreateAsync(dto);
             return CreatedAtAction(nameof(Get), new { id = creada.Id }, creada);
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var compra = await _compraService.GetByIdAsync(id);
+            if (compra == null)
+                return NotFound();
+
+            var eliminado = await _compraService.DeleteAsync(id);
+            if (!eliminado)
+                return StatusCode(500, "Error al eliminar la compra.");
+
+            return NoContent();
+        }
+
+
     }
 }
 

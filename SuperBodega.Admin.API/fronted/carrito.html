@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Carrito de Compras</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container py-5">
+
+    <h2>Carrito de Cliente</h2>
+    <button class="btn btn-sm btn-secondary mb-3" onclick="window.location.href='dashboard.html'">⬅ Volver</button>
+    <div class="mb-3">
+        <input type="number" id="clienteId" class="form-control" placeholder="ID del Cliente" />
+        <button onclick="verCarrito()" class="btn btn-info mt-2">Ver Carrito</button>
+        <button onclick="vaciarCarrito()" class="btn btn-danger mt-2">Vaciar Carrito</button>
+    </div>
+
+    <table class="table" id="carritoTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Producto ID</th>
+                <th>Cantidad</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        const apiUrl = 'http://localhost:5234/api/Carrito';
+
+        async function verCarrito() {
+            const clienteId = document.getElementById('clienteId').value;
+            const res = await fetch(`${apiUrl}/${clienteId}`);
+            const items = await res.json();
+            const tbody = document.querySelector('#carritoTable tbody');
+            tbody.innerHTML = '';
+            items.forEach(i => {
+                const row = `<tr><td>${i.id}</td><td>${i.productoId}</td><td>${i.cantidad}</td></tr>`;
+                tbody.innerHTML += row;
+            });
+        }
+
+        async function vaciarCarrito() {
+            const clienteId = document.getElementById('clienteId').value;
+            await fetch(`${apiUrl}/vaciar/${clienteId}`, { method: 'DELETE' });
+            verCarrito();
+        }
+    </script>
+</body>
+</html>

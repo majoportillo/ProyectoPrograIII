@@ -2,8 +2,9 @@
 {
     public class User
     {
-        public string usuario { get; set; } = string.Empty;
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }
+        public int Id { get; set; }
+        public string UsuarioNombre { get; set; } = string.Empty;
+        public byte[] PasswordHash { get; set; } = default!;
+        public byte[] PasswordSalt { get; set; } = default!;
     }
 }

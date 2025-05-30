@@ -88,6 +88,20 @@ namespace SuperBodega.Admin.API.Services
             result.Detalle = dto.Detalle;
             return result;
         }
+        public async Task<bool> DeleteAsync(int id)
+        {
+            var compra = await _context.Compras
+                .Include(c => c.DetalleCompras)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (compra == null) return false;
+
+            _context.DetalleCompras.RemoveRange(compra.DetalleCompras);
+            _context.Compras.Remove(compra);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
     }
 }
 

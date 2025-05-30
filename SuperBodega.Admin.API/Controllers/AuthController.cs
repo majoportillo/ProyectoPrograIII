@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using SuperBodega.Admin.API.Data;
 using SuperBodega.Admin.API.Dtos;
 using SuperBodega.Admin.API.Models;
 using System.IdentityModel.Tokens.Jwt;
@@ -10,41 +12,57 @@ using System.Text;
 
 namespace SuperBodega.Admin.API.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
         public static User user = new User();
+        private readonly SuperBodegaDbContext _context;
         private readonly IConfiguration _configuration;
 
-
-        public AuthController(IConfiguration configuration)
+        public AuthController(SuperBodegaDbContext context, IConfiguration configuration)
         {
+            _context = context;
             _configuration = configuration;
-        }   
-
+        }
 
         [HttpPost("register")]
-        public async Task<ActionResult<User>> Register(UserDto request)
+        public async Task<ActionResult> Register(UserDto request)
         {
-            CreatePasswordHash(request.password, out byte[] passwordHash, out byte[] passwordSalt);
-            user.usuario = request.usuario;
-            user.PasswordHash = passwordHash;
-            user.PasswordSalt = passwordSalt;
-            return Ok(user);
+            if (await _context.Usuarios.AnyAsync(u => u.UsuarioNombre == request.UsuarioNombre))
+                return BadRequest("El usuario ya existe");
+
+            CreatePasswordHash(request.Password, out byte[] hash, out byte[] salt);
+
+            var usuario = new User
+            {
+                UsuarioNombre = request.UsuarioNombre,
+                PasswordHash = hash,
+                PasswordSalt = salt
+            };
+
+            _context.Usuarios.Add(usuario);
+            await _context.SaveChangesAsync();
+
+            return Ok("Usuario registrado con éxito");
         }
 
         [HttpPost("login")]
-        public async Task<ActionResult<User>> Login(UserDto request)
+        public async Task<ActionResult<string>> Login(UserDto request)
         {
-            if (user.usuario != request.usuario)
-                return BadRequest("User not found");
+            var usuario = await _context.Usuarios
+                .FirstOrDefaultAsync(u => u.UsuarioNombre == request.UsuarioNombre);
 
-            if (!VerifyPasswordHash(request.password, user.PasswordHash, user.PasswordSalt))
-                return BadRequest("Wrong password");
+            if (usuario == null)
+                return BadRequest("Usuario no encontrado");
 
-            string token = CreateToken(user);
+            if (!VerifyPasswordHash(request.Password, usuario.PasswordHash, usuario.PasswordSalt))
+                return BadRequest("Contraseña incorrecta");
 
-            return Ok(token);
+            var token = CreateToken(usuario);
+            return Ok(new { token });
         }
+
         private void CreatePasswordHash(string password, out byte[] passwordHash, out byte[] passwordSalt)
         {
             using (var hmac = new HMACSHA512())
@@ -67,12 +85,12 @@ namespace SuperBodega.Admin.API.Controllers
         private String CreateToken(User user) { 
             var claims = new List<Claim>
             {
-                new Claim(ClaimTypes.Name, user.usuario),
+                new Claim(ClaimTypes.Name, user.UsuarioNombre),
                 new Claim(ClaimTypes.Role, "Admin")
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
-        _configuration.GetSection("AppSettings:Token").Value));
+                _configuration.GetSection("AppSettings:Token").Value));
 
             var cred = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
