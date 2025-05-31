@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using SuperBodega.Admin.API.Dtos;
-using SuperBodega.Admin.API.Models;
 using SuperBodega.Models;
 
 namespace SuperBodega.Admin.API.Mappings
@@ -11,12 +10,18 @@ namespace SuperBodega.Admin.API.Mappings
         {
             // Producto
             CreateMap<Producto, ProductoDto>().ReverseMap();
+            CreateMap<ProductoDto, Producto>()   // escritura (sin tocar Id)
+                .ForMember(dest => dest.Id, opt => opt.Ignore());
 
             // Cliente
-            CreateMap<Cliente, ClienteDto>().ReverseMap();
+            CreateMap<Cliente, ClienteDto>();
+            CreateMap<ClienteDto, Cliente>()   // escritura (sin tocar Id)
+                .ForMember(dest => dest.Id, opt => opt.Ignore());
 
             // Proveedor
-            CreateMap<Proveedores, ProveedorDto>().ReverseMap();
+            CreateMap<Proveedores, ProveedorDto>();
+            CreateMap<ProveedorDto, Proveedores>()
+                .ForMember(dest => dest.Id, opt => opt.Ignore());
 
             // Compra y DetalleCompra
             CreateMap<Compra, CompraDto>().ReverseMap();
@@ -25,9 +30,6 @@ namespace SuperBodega.Admin.API.Mappings
             // Venta y DetalleVenta
             CreateMap<Venta, VentaDto>().ReverseMap();
             CreateMap<DetalleVenta, DetalleVentaDto>().ReverseMap();
-
-            // Carrito
-            CreateMap<Carrito, CarritoDto>().ReverseMap();
         }
     }
 }

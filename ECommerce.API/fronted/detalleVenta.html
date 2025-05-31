@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalle de Venta</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container py-4">
+    <h2>Detalle de la Venta</h2>
+    <div id="infoVenta"></div>
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio Unitario</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody id="detalleTabla"></tbody>
+    </table>
+    <h4 id="totalVenta"></h4>
+    <button class="btn btn-primary mt-3" onclick="window.location.href='catalogo.html'">Volver al Catálogo</button>
+
+    <script>
+        const venta = JSON.parse(localStorage.getItem("ventaRealizada"));
+        if (!venta) {
+            alert("No hay venta para mostrar.");
+            window.location.href = "carrito.html";
+        }
+
+        document.getElementById("infoVenta").innerHTML = `
+            <p><strong>ID:</strong> ${venta.id}</p>
+            <p><strong>Fecha:</strong> ${venta.fecha}</p>
+            <p><strong>Estado:</strong> ${venta.estado}</p>
+        `;
+
+        const tabla = document.getElementById("detalleTabla");
+        let total = 0;
+        venta.detalle.forEach(item => {
+            const subtotal = item.precioUnitario * item.cantidad;
+            total += subtotal;
+            tabla.innerHTML += `
+                <tr>
+                    <td>${item.nombreProducto ?? 'Producto'}</td>
+                    <td>${item.cantidad}</td>
+                    <td>Q${item.precioUnitario.toFixed(2)}</td>
+                    <td>Q${subtotal.toFixed(2)}</td>
+                </tr>`;
+        });
+
+        document.getElementById("totalVenta").innerText = `Total: Q${total.toFixed(2)}`;
+    </script>
+</body>
+</html>

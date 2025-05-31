@@ -1,0 +1,672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\controllers\\catalogocontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\catalogocontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\services\\productocatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\services\\productocatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\services\\interfaces\\iproductocatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\services\\interfaces\\iproductocatalogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\dtos\\catalogoproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\dtos\\catalogoproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\catalogo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\catalogo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\ventas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\fronted\\ventas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\carrito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\carrito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\detalleventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\detalleventa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\dtos\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\detallecompra.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\detallecompra.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\services\\interfaces\\icarritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\dtos\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|solutionrelative:superbodega.models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\data\\superbodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\logincliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\logincliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\fronted\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\fronted\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\fronted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\fronted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\controllers\\clientescrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\factories\\ecommercedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\factories\\ecommercedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\controllers\\pruebacontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\pruebacontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|solutionrelative:superbodega.models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.admin.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E15A7D6-4F85-4FF3-9F33-A50A8EE54AD3}|SuperBodega.Admin.API\\SuperBodega.Admin.API.csproj|solutionrelative:superbodega.admin.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|solutionrelative:superbodega.models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\superbodega.models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F9DF9-5469-B5A4-425A-CB49C00460C1}|SuperBodega.Models\\SuperBodega.Models.csproj|solutionrelative:superbodega.models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\hp blue\\desktop\\projectfiinal\\ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F767DEE8-97AD-4B2E-8D11-06600F87C681}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ventas.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\ventas.html",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\fronted\\ventas.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\ventas.html",
+              "RelativeToolTip": "SuperBodega.Admin.API\\fronted\\ventas.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABEAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T21:34:33.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "detalleVenta.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\detalleVenta.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\detalleVenta.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\detalleVenta.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\detalleVenta.html",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T21:22:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "detalleCompra.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\detalleCompra.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\detalleCompra.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\detalleCompra.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\detalleCompra.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T21:04:08.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Services\\VentaService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:29:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Dtos\\DetalleVentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:25:27.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\index.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\index.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\index.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T19:17:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuperBodegaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Data\\SuperBodegaDbContext.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:37:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:36:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientesCrontroller.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Controllers\\ClientesCrontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:35:49.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:35:30.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T17:13:31.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PruebaControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\PruebaControllercs.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\PruebaControllercs.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\PruebaControllercs.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\PruebaControllercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:10:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "productos.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\productos.html",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\fronted\\productos.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\fronted\\productos.html",
+              "RelativeToolTip": "SuperBodega.Admin.API\\fronted\\productos.html",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T16:55:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:50:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Program.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Program.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:50:21.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\Interfaces\\ICarritoService.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Services\\Interfaces\\ICarritoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\Interfaces\\ICarritoService.cs",
+              "RelativeToolTip": "ECommerce.API\\Services\\Interfaces\\ICarritoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:29:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\CarritoService.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Services\\CarritoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\CarritoService.cs",
+              "RelativeToolTip": "ECommerce.API\\Services\\CarritoService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:54:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarritoDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Dtos\\CarritoDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Dtos\\CarritoDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Dtos\\CarritoDto.cs",
+              "RelativeToolTip": "ECommerce.API\\Dtos\\CarritoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:51:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "loginCliente.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\loginCliente.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\loginCliente.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\loginCliente.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\loginCliente.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T11:37:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "carrito.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\carrito.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\carrito.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\carrito.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\carrito.html",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T11:31:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ECommerceDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Factories\\ECommerceDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Factories\\ECommerceDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Factories\\ECommerceDbContextFactory.cs",
+              "RelativeToolTip": "ECommerce.API\\Factories\\ECommerceDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:57:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:52:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Services\\ProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:52:17.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "RelativeToolTip": "SuperBodega.Admin.API\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:51:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\Proveedores.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Models\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\Proveedores.cs",
+              "RelativeToolTip": "SuperBodega.Models\\Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:42:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\DetalleVenta.cs",
+              "RelativeToolTip": "SuperBodega.Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:42:40.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\DetalleCompra.cs",
+              "RelativeToolTip": "SuperBodega.Models\\DetalleCompra.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:42:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\Compra.cs",
+              "RelativeDocumentMoniker": "SuperBodega.Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\SuperBodega.Models\\Compra.cs",
+              "RelativeToolTip": "SuperBodega.Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:42:11.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "catalogo.html",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\catalogo.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\fronted\\catalogo.html",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\fronted\\catalogo.html",
+              "RelativeToolTip": "ECommerce.API\\fronted\\catalogo.html",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-29T10:21:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoCatalogoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\ProductoCatalogoService.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Services\\ProductoCatalogoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\ProductoCatalogoService.cs",
+              "RelativeToolTip": "ECommerce.API\\Services\\ProductoCatalogoService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:16:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogoProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Dtos\\CatalogoProductoDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Dtos\\CatalogoProductoDto.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Dtos\\CatalogoProductoDto.cs",
+              "RelativeToolTip": "ECommerce.API\\Dtos\\CatalogoProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:15:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductoCatalogoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\Interfaces\\IProductoCatalogoService.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Services\\Interfaces\\IProductoCatalogoService.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Services\\Interfaces\\IProductoCatalogoService.cs",
+              "RelativeToolTip": "ECommerce.API\\Services\\Interfaces\\IProductoCatalogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:14:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\appsettings.json",
+              "RelativeToolTip": "ECommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T10:07:44.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "ECommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:06:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "ECommerce.API\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:05:45.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ECommerce.API.csproj",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce.API\\ECommerce.API.csproj",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeToolTip": "ECommerce.API\\ECommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T10:00:57.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogoControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\CatalogoControllercs.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\CatalogoControllercs.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\CatalogoControllercs.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\CatalogoControllercs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:49:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\ProjectFiinal\\ECommerce.API\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:47:46.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

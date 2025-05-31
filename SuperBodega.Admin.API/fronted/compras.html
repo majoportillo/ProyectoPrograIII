@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Gestión de Compras</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container py-5">
+    <h2 class="mb-4">Gestión de Compras</h2>
+    <button class="btn btn-sm btn-secondary mb-3" onclick="window.location.href='dashboard.html'">⬅ Volver</button>
+
+    <form id="compraForm" class="mb-4">
+        <div class="mb-3">
+            <input type="number" id="proveedorId" class="form-control" placeholder="ID del Proveedor" required />
+        </div>
+        <div class="mb-3">
+            <input type="number" id="productoId" class="form-control" placeholder="ID del Producto" required />
+        </div>
+        <div class="mb-3">
+            <input type="number" id="cantidad" class="form-control" placeholder="Cantidad" required />
+        </div>
+        <div class="mb-3">
+            <input type="number" id="precioUnitario" class="form-control" placeholder="Precio Unitario" required />
+        </div>
+        <button type="submit" class="btn btn-success">Registrar Compra</button>
+    </form>
+
+    <table class="table table-striped" id="comprasTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Proveedor</th>
+                <th>Fecha</th>
+                <th>Total</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <!-- Modal Detalles -->
+    <div class="modal fade" id="detalleModal" tabindex="-1" aria-labelledby="detalleLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="detalleLabel">Detalle de Compra</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                </div>
+                <div class="modal-body" id="detalleBody">
+                    <!-- Detalles se agregan por JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Dentro del <script> -->
+    <script>
+        const url = 'http://localhost:5234/api/Compras';
+
+        async function cargarCompras() {
+            const res = await fetch(url);
+            const compras = await res.json();
+            const tbody = document.querySelector('#comprasTable tbody');
+            tbody.innerHTML = ''; // 🧹 Limpia antes de volver a llenar
+
+            compras.forEach(c => {
+                tbody.innerHTML += `
+                      <tr>
+                        <td>${c.id}</td>
+                        <td>${c.proveedorId}</td>
+                        <td>${new Date(c.fecha).toLocaleDateString()}</td>
+                        <td>${c.total}</td>
+                        <td>
+                            <button class="btn btn-sm btn-danger" onclick="eliminarCompra(${c.id})">Eliminar</button>
+                        </td>
+                      </tr>`;
+            });
+        }
+
+        async function registrarCompra(e) {
+            e.preventDefault();
+            const proveedorId = parseInt(document.getElementById('proveedorId').value);
+            const productoId = parseInt(document.getElementById('productoId').value);
+            const cantidad = parseInt(document.getElementById('cantidad').value);
+            const precioUnitario = parseFloat(document.getElementById('precioUnitario').value);
+
+            try {
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        proveedorId,
+                        detalle: [{ productoId, cantidad, precioUnitario }]
+                    })
+                });
+
+                if (!res.ok) throw new Error('No se pudo registrar la compra');
+
+                document.getElementById('compraForm').reset();
+                await cargarCompras(); // Recarga después de éxito
+            } catch (error) {
+                alert(error.message);
+            }
+        }
+
+        async function eliminarCompra(id) {
+            if (confirm('¿Eliminar esta compra?')) {
+                await fetch(`${url}/${id}`, { method: 'DELETE' });
+                await cargarCompras();
+            }
+        }
+
+        document.getElementById('compraForm').addEventListener('submit', registrarCompra);
+        cargarCompras(); // Primera carga
+    </script>
+
+</body>
+</html>
+
+

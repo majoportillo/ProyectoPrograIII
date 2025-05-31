@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using SuperBodega.Admin.API.Data;
 using SuperBodega.Admin.API.Dtos;
-using SuperBodega.Admin.API.Models;
+using SuperBodega.Models;
 using SuperBodega.Admin.API.Services.Interfaces;
 
 namespace SuperBodega.Admin.API.Services

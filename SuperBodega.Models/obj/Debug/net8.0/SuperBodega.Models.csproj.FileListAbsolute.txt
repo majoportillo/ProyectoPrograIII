@@ -1,0 +1,12 @@
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\bin\Debug\net8.0\SuperBodega.Models.deps.json
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\bin\Debug\net8.0\SuperBodega.Models.dll
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\bin\Debug\net8.0\SuperBodega.Models.pdb
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.AssemblyInfoInputs.cache
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.AssemblyInfo.cs
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.sourcelink.json
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.dll
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\refint\SuperBodega.Models.dll
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\SuperBodega.Models.pdb
+C:\Users\HP BLUE\Desktop\ProjectFiinal\SuperBodega.Models\obj\Debug\net8.0\ref\SuperBodega.Models.dll

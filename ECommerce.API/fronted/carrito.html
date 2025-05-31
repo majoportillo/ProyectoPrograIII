@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Carrito de Compras</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container py-4">
+
+    <h2>Carrito de Compras</h2>
+    <button class="btn btn-danger float-end" onclick="cerrarSesion()">Cerrar sesión</button>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Total</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody id="tablaCarrito"></tbody>
+    </table>
+
+    <button class="btn btn-success" onclick="realizarCompra()">Realizar Compra</button>
+    <button class="btn btn-secondary mt-3" onclick="window.location.href='catalogo.html'">⬅️ Volver al Catálogo</button>
+
+    <script>
+        const clienteId = localStorage.getItem("clienteId");
+        if (!clienteId) {
+            alert("Primero debes iniciar sesión");
+            window.location.href = "loginCliente.html";
+        }
+
+        const ecommerceApi = "http://localhost:5231"; // API del carrito
+        const adminApi = "http://localhost:5234";     // API de ventas
+
+        async function cargarCarrito() {
+            const res = await fetch(`${ecommerceApi}/api/Carrito/${clienteId}`);
+            const items = await res.json();
+            const tabla = document.getElementById("tablaCarrito");
+            tabla.innerHTML = "";
+
+            items.forEach(item => {
+                const fila = `
+                        <tr>
+                            <td>${item.producto?.nombre ?? '-'}</td>
+                            <td>Q${item.producto?.precio?.toFixed(2) ?? '0.00'}</td>
+                            <td>${item.cantidad}</td>
+                            <td>Q${(item.producto?.precio * item.cantidad).toFixed(2)}</td>
+                            <td><button class="btn btn-danger btn-sm" onclick="eliminarItem(${item.id})">Eliminar</button></td>
+                        </tr>`;
+                tabla.innerHTML += fila;
+            });
+        }
+
+        async function eliminarItem(id) {
+            await fetch(`${ecommerceApi}/api/Carrito/${id}`, { method: "DELETE" });
+            cargarCarrito();
+        }
+
+        async function realizarCompra() {
+            try {
+                const resCarrito = await fetch(`${ecommerceApi}/api/Carrito/${clienteId}`);
+                const items = await resCarrito.json();
+
+                const detalle = items.map(item => ({
+                    productoId: item.producto.id,
+                    cantidad: item.cantidad,
+                    precioUnitario: item.producto.precio,
+                    nombreProducto: item.producto.nombre // lo usaremos en el frontend
+                }));
+
+                const venta = {
+                    clienteId: parseInt(clienteId),
+                    detalle: detalle
+                };
+
+                const res = await fetch(`${adminApi}/api/Ventas`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(venta)
+                });
+
+                if (res.ok) {
+                    const data = await res.json();
+                    data.detalle = detalle; // añadimos nombreProducto desde el frontend
+                    localStorage.setItem("ventaRealizada", JSON.stringify(data));
+
+                    await fetch(`${ecommerceApi}/api/Carrito/vaciar/${clienteId}`, { method: "DELETE" });
+                    window.location.href = "detalleVenta.html";
+                } else {
+                    const errorText = await res.text();
+                    alert("Error al realizar la compra:\n" + errorText);
+                }
+            } catch (error) {
+                console.error("Error en compra:", error);
+                alert("Ocurrió un error al realizar la compra. Revisa la consola.");
+            }
+        }
+
+        function cerrarSesion() {
+            localStorage.removeItem("clienteId");
+            window.location.href = "loginCliente.html";
+        }
+
+        cargarCarrito();
+    </script>
+</body>
+</html>
+
+
