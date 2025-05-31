@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.Backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.API.csproj.Backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECommerce.API.http",
+              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.http",
+              "RelativeDocumentMoniker": "ECommerce.API.http",
+              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.http",
+              "RelativeToolTip": "ECommerce.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-30T06:25:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ECommerce.API.csproj.user",
+              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.user",
+              "RelativeDocumentMoniker": "ECommerce.API.csproj.user",
+              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.user",
+              "RelativeToolTip": "ECommerce.API.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-30T06:25:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECommerce.API.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "ECommerce.API.csproj.Backup.tmp",
+              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj.Backup.tmp",
+              "RelativeToolTip": "ECommerce.API.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-30T06:25:08.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECommerce.API.csproj",
+              "DocumentMoniker": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce.API.csproj",
+              "ToolTip": "D:\\5TO SEMESTRE\\PROGRA III\\ProyectoFinalPrograIII\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeToolTip": "ECommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T06:25:01.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
