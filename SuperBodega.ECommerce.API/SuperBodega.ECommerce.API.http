@@ -1,0 +1,6 @@
+@SuperBodega.ECommerce.API_HostAddress = http://localhost:5062
+
+GET {{SuperBodega.ECommerce.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

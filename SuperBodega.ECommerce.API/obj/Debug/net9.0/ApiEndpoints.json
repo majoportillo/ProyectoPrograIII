@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SuperBodega.ECommerce.API.Controllers.CatalogoController",
+    "Method": "Get",
+    "RelativePath": "api/Catalogo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

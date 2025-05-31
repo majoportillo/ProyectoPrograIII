@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OdLjzY3MflLyTa21eym94TcyjEU1VZh1hqVQAS8OLwc=",
+  "Source": "SuperBodega.ECommerce.API",
+  "BasePath": "_content/SuperBodega.ECommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

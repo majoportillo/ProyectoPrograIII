@@ -1,0 +1,53 @@
+﻿@model SuperBodega.ECommerce.API.ViewModels.ProductosViewModel
+
+<h2>Productos</h2>
+
+<form method="get" class="mb-3">
+    <input type="text" name="search" value="@Model.Search" placeholder="Buscar producto..." />
+    <button type="submit">Buscar</button>
+</form>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Categoría</th>
+            <th>Acciones</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Productos != null && Model.Productos.Any())
+        {
+            @foreach (var p in Model.Productos)
+            {
+                <tr>
+                    <td>@p.Nombre</td>
+                    <td>@p.Precio</td>
+                    <td>@p.Categoria</td>
+                    <td>
+                        <form asp-controller="CarritoWeb" asp-action="Agregar" method="post" style="display:inline">
+                            <input type="hidden" name="productoId" value="@p.Id" />
+                            <input type="number" name="cantidad" value="1" min="1" style="width:50px;" />
+                            <button type="submit" class="btn btn-sm btn-primary">Agregar al carrito</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No hay productos disponibles.</td>
+            </tr>
+        }
+    </tbody>
+</table>
