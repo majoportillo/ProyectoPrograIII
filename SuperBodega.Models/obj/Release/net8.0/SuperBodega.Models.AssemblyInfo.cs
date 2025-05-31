@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SuperBodega.Tests")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SuperBodega.Models")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5749ca0e0a738535e575a6366815e353cc701f4c")]
-[assembly: System.Reflection.AssemblyProductAttribute("SuperBodega.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SuperBodega.Tests")]
+[assembly: System.Reflection.AssemblyProductAttribute("SuperBodega.Models")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SuperBodega.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
