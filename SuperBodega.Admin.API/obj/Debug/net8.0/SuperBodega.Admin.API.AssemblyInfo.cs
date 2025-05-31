@@ -11,10 +11,15 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5b5c26a4-0084-4436-b0d8-82a64c795992")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperBodega.Admin.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5749ca0e0a738535e575a6366815e353cc701f4c")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b68ce59b8b2d772a8b36e92a9303e4b2176d821")]
+>>>>>>> Astrid
 [assembly: System.Reflection.AssemblyProductAttribute("SuperBodega.Admin.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperBodega.Admin.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

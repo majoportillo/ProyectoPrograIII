@@ -12,5 +12,31 @@ services:
     volumes:
       - sql_data:/var/opt/mssql
 
+  adminapi:
+    build:
+      context: .
+      dockerfile: SuperBodega.Admin.API/Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - sqlserver
+
+  ecommerceapi:
+    build:
+      context: .
+      dockerfile: SuperBodega.ECommerce.API/Dockerfile
+    ports:
+      - "5001:5001"
+    depends_on:
+      - sqlserver
+
+  emailworker:
+    build:
+      context: .
+      dockerfile: SuperBodega.EmailWorker/Dockerfile
+    depends_on:
+      - sqlserver
+
 volumes:
   sql_data:
+

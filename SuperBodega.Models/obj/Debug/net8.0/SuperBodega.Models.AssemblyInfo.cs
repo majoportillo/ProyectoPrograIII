@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperBodega.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5749ca0e0a738535e575a6366815e353cc701f4c")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b68ce59b8b2d772a8b36e92a9303e4b2176d821")]
+>>>>>>> Astrid
 [assembly: System.Reflection.AssemblyProductAttribute("SuperBodega.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperBodega.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
